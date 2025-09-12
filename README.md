@@ -4,6 +4,6 @@ Game developer. Ihave quite good knowledge and experience in Unity, C# (PC, Andr
 
 ### My opensource projects
 
-*   [](https://github.com/) - 
-*   [](https://github.com/) - 
-*   [](https://github.com/) - 
+*   [Ether](https://github.com/) - quest game for PC, first large-scale completed project
+*   [Blacksmith VR](https://github.com/) - VR game-simulator of a medieval blacksmith, a project made in small team of developers
+*   [Вираж VR](https://github.com/) - VR ski resort simulator game
