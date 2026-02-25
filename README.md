@@ -1,6 +1,6 @@
 ## Hi there Vlada👋
 
-Game developer. I have quite good knowledge and experience in Unity, C# (PC, Android, VR/AR). I also have experience working in Unreal Engine (blueprints) and Visual Scripting in Unity.
+Game developer. I have quite good knowledge and experience in Unity, C# (PC, Android, VR/AR); Unreal Engine 4, Godot Engine.
 
 ### My opensource projects
 
