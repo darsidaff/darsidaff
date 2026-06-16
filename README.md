@@ -29,7 +29,7 @@
 
 Симулятор горнолыжного курорта. Учебный проект для VR-устройств Pico 4, разработанный на Unity.
 
-<img src="https://github.com/user-attachments/assets/5d60a53f-a5a0-498c-ad2d-2e11f6af5ea6" width="600">
+<img src="https://github.com/user-attachments/assets/54f916f5-5d21-4db8-ac46-ec33e5a6f430" width="600">
 
 ### [Фьюжн](https://github.com/darsidaff/Fusion-Build)
 
