@@ -1,9 +1,31 @@
-## Hi there Vlada👋
+## Привет! Я Влада
 
-Game developer. I have quite good knowledge and experience in Unity, C# (PC, Android, VR/AR); Unreal Engine 4, Godot Engine.
+Выпускница бакалавриата по специальности "Программирование и дизайн виртуальной и дополненной реальности". Более 4 лет занимаюсь разработкой проектов на Unity и имею опыт работы с Unreal Engine.
 
-### My opensource projects
+## Технологии
 
-*   [Ether](https://github.com/darsidaff/Ether) - quest game for PC, first large-scale completed project (Build)
-*   [Blacksmith VR](https://github.com/darsidaff/Blacksmith) - VR game-simulator of a medieval blacksmith, a project made in small team of developers
-*   [Вираж VR](https://github.com/darsidaff/Turn-VR) - VR ski resort simulator game
+- Unity
+- C#
+- VR / AR
+- Unreal Engine
+- Git
+
+## Проекты
+
+### Эфир
+
+Приключенческая игра для ПК, разработанная в рамках гранта «Студенческий стартап».
+
+[Репозиторий](https://github.com/darsidaff/Ether)
+
+### VR-симулятор кузницы
+
+Командный проект для VR-устройств Pico 4
+
+[Репозиторий](https://github.com/darsidaff/Blacksmith)
+
+### VR-симулятор горнолыжного курорта
+
+Учебный проект для VR-устройств Pico 4
+
+[Репозиторий](https://github.com/darsidaff/Turn-VR)
