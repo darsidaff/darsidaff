@@ -1,3 +1,4 @@
+
 ## Привет! Я Влада
 
 Выпускница бакалавриата по специальности "Программирование и дизайн виртуальной и дополненной реальности". Более 4 лет занимаюсь разработкой проектов на Unity и имею опыт работы с Unreal Engine.
@@ -12,26 +13,26 @@
 
 ## Проекты
 
-### Эфир
+### [Эфир](https://github.com/darsidaff/Ether)
 
 Приключенческая игра для ПК, разработанная на Unity в рамках гранта «Студенческий стартап».
 
-[Репозиторий](https://github.com/darsidaff/Ether)
+<img src="https://github.com/user-attachments/assets/36e3afb1-ce6c-421b-b267-8627c8b79a9d" width="600">
 
-### Blacksmith VR
+### [Blacksmith VR](https://github.com/darsidaff/Blacksmith)
 
 Симулятор средневековой кузницы. Командный проект для VR-устройств Pico 4, разработанный на Unity.
 
-[Репозиторий](https://github.com/darsidaff/Blacksmith)
+<img src="https://github.com/user-attachments/assets/d3a3c192-946d-49f1-9d54-77264c886359" width="600">
 
-### Вираж VR
+### [Вираж VR](https://github.com/darsidaff/Turn-VR)
 
 Симулятор горнолыжного курорта. Учебный проект для VR-устройств Pico 4, разработанный на Unity.
 
-[Репозиторий](https://github.com/darsidaff/Turn-VR)
+<img src="https://github.com/user-attachments/assets/5d60a53f-a5a0-498c-ad2d-2e11f6af5ea6" width="600">
 
-### Фьюжн
+### [Фьюжн](https://github.com/darsidaff/Fusion-Build)
 
 Головоломка для двоих игроков с подключением по локальной сети. Учебный проект для ПК, разработанный на Unreal Engine.
 
-[Репозиторий](https://github.com/darsidaff/Fusion-Build)
+<img src="https://github.com/user-attachments/assets/e57d48c9-1bd6-4a9a-b30b-a470b2de0b33" width="600">
