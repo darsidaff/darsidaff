@@ -10,6 +10,11 @@
 - VR / AR
 - Unreal Engine
 - Git
+- Zenject
+- UniTask
+- R3
+- DoTween
+- Addressables
 
 ## Проекты
 
@@ -30,6 +35,10 @@
 Симулятор горнолыжного курорта. Учебный проект для VR-устройств Pico 4, разработанный на Unity.
 
 <img src="https://github.com/user-attachments/assets/54f916f5-5d21-4db8-ac46-ec33e5a6f430" width="600">
+
+### [Алхимия](https://github.com/darsidaff/TrainingProject_Alchemy)
+
+Личный учебный проект - простая мобильная игра. Разрабатывала для закрепления и демонстрации изученных инструментов и архитектурных паттернов.
 
 ### [Фьюжн](https://github.com/darsidaff/Fusion-Build)
 
